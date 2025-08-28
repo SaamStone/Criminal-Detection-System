@@ -12,7 +12,7 @@ def insertData(data):
     """
     rowId = 0
 
-    db = pymysql.connect(host="criminaldb.cpk0ayggcs0v.eu-north-1.rds.amazonaws.com", user="admin", password="yeshwanth", database="criminaldb")
+    db = pymysql.connect(host="criminaldb.cpk0ayggcs0v.eu-north-1.rds.amazonaws.com", user="admin", password="SaamStone", database="criminaldb")
     cursor = db.cursor()
     print("Database connected")
 
@@ -47,7 +47,7 @@ def retrieveData(name):
     id = None
     criminaldata = None
 
-    db = pymysql.connect(host="criminaldb.cpk0ayggcs0v.eu-north-1.rds.amazonaws.com", user="admin", password="yeshwanth", database="criminaldb")
+    db = pymysql.connect(host="criminaldb.cpk0ayggcs0v.eu-north-1.rds.amazonaws.com", user="admin", password="SaamStone", database="criminaldb")
     cursor = db.cursor()
     print("Database connected")
 
