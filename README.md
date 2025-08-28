@@ -100,5 +100,5 @@ I would like to thank my project guide, Prof. Dr. Raghavendra Kulkarni, for his 
 ##DEMO 
 
 
-https://github.com/yesh02/CRIMINAL-DETECTION-SYSTEM/assets/112691767/4aad3d7c-c017-4f58-9e36-44d80808a729
+
 
