@@ -1,9 +1,9 @@
 # Criminal Detection System
 
-**Author:** Yeshwanth Goud Guddibagu  
-**Regd. No:** HU21CSCI0200001  
-**Institution:** GITAM (Deemed to be University), School of Science, Department of Computer Science  
-**Project Guide:** Dr. Raghavendra Kulkarni, Ph. D.
+**Author:** Sai Ram Ch  
+**Regd. No:** 22R25A6207 
+**Institution:** MARRI LAXMAN REDDY INSTITUTE OF TECHNOLOGY , Department of Computer Science  
+**Project Guide:** SAIRAM CHAKALI.
 
 ## Project Overview
 
